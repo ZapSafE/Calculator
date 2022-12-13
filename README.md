@@ -3,7 +3,7 @@
 
 Приложение написано на основе [технического задания](https://drive.google.com/file/d/1pG7LePLCTgWDAHcDCO2xN_1V6AvABwZw/view).
 
-![Calculator]((https://user-images.githubusercontent.com/103428708/207311154-cffe0d24-8c4a-4a58-b6eb-9b1d4ef977f3.png))
+![Calculator_Sokol](https://user-images.githubusercontent.com/103428708/207311154-cffe0d24-8c4a-4a58-b6eb-9b1d4ef977f3.png)
 
 # Oписание классов и методов
 Проект содержит в себе следующие классы:
@@ -38,10 +38,6 @@
 ![startProject](https://user-images.githubusercontent.com/96730744/197644537-27ffa0a6-4350-495f-883b-154ead8c3013.png)
 
 + Установите расширение для Visual Studio.
-+ Клонирование проекта: 
-```
-    git clone 1111
-```
 + Откройте src\Calculator.sln в Visual Studio, чтобы создать и запустить приложение __Calculator__.
 + Для запуска тестов пользовательского интерфейса необходимо убедиться, что установлен драйвер приложения Windows (WinAppDriver).
 
