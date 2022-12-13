@@ -1,0 +1,12 @@
+D:\All\Calculator_Sokol\Calculator.Logic\bin\Debug\net6.0\Calculator.Logic.deps.json
+D:\All\Calculator_Sokol\Calculator.Logic\bin\Debug\net6.0\Calculator.Logic.dll
+D:\All\Calculator_Sokol\Calculator.Logic\bin\Debug\net6.0\Calculator.Logic.pdb
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.csproj.AssemblyReference.cache
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.AssemblyInfoInputs.cache
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.AssemblyInfo.cs
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.csproj.CoreCompileInputs.cache
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.dll
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\refint\Calculator.Logic.dll
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.pdb
+D:\All\Calculator_Sokol\Calculator.Logic\obj\Debug\net6.0\ref\Calculator.Logic.dll
